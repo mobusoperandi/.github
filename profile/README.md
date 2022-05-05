@@ -4,6 +4,8 @@
 
 A community for the regular study of [The Rust Programming Language](https://www.rust-lang.org/) in the format of [Remote Mob Programming](http://remotemobprogramming.org/).
 
+- [Mobus Operandi on The Mob Mentality Show podcast](https://youtu.be/nxNDo-7Fyfk).
+
 ## Is this free?
 
 Yes.
