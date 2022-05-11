@@ -2,7 +2,7 @@
 
 ## What
 
-A community for the regular study of [The Rust Programming Language](https://www.rust-lang.org/) in the format of [Remote Mob Programming](http://remotemobprogramming.org/).
+A community for regular study of [The Rust Programming Language](https://www.rust-lang.org/) in [Remote Mob Programming](http://remotemobprogramming.org/) format.
 
 - [Mobus Operandi on The Mob Mentality Show podcast](https://youtu.be/nxNDo-7Fyfk).
 
