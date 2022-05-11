@@ -2,41 +2,31 @@
 
 ## What
 
-A community for regular study of [The Rust Programming Language](https://www.rust-lang.org/) in [Remote Mob Programming](http://remotemobprogramming.org/) format.
+A community for the regular study of [The Rust Programming Language][rust] in [Remote Mob Programming] format.
 
-- [Mobus Operandi on The Mob Mentality Show podcast](https://youtu.be/nxNDo-7Fyfk).
+<a
+  href="http://www.youtube.com/watch?feature=player_embedded&v=nxNDo-7Fyfk"
+  target="_blank">
+  <img
+    src="http://img.youtube.com/vi/nxNDo-7Fyfk/0.jpg"
+    alt="Mob Programming to Learn Rust with Shahar Dawn Or" width="240" height="180"/>
+</a>
 
 ## Is this free?
 
 Yes.
 
+## What level of experience is required?
+
+We have various mobs with different skill levels.
+
 ## May I join?
 
-Check whether you feel you could fit within any of [these mobs][mobs].
-All times are 24h [UTC](https://en.wikipedia.org/wiki/Coordinated_Universal_Time).
-Also, take a look in [#schedule suggestions].
-
-If nothing fits, suggest your own schedule in [#schedule suggestions].
-Mention your general programming and Rust skill levels.
-To improve your chances, also post in [r/ProgrammingBuddies](https://www.reddit.com/r/ProgrammingBuddies/).
-
-## What exactly do we study and how?
-
-A recommendation for new rustaceans: [the Exercism Rust track](https://exercism.org/tracks/rust).
-Otherwise, it's totally up to you.
-
-## I've found a mob to join. What now?
-
-[Let's have a chat][schedule].
+Please [schedule a chat with me][schedule].
 
 ## May I merely spectate?
 
 Possibly. Let's [have a chat][schedule].
-
-## What level of experience is required?
-
-That depends on the specific mob.
-See [the list][mobs].
 
 ## How should I prepare for my first session?
 
@@ -48,13 +38,6 @@ See [the list][mobs].
 1. Configure [two-factor authentication for your GitHub account](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication).
 1. Send [me][mightyiam-zulip] your GitHub user name.
 
-## Are mobs moderated or guided?
-
-Well, I'm the only staff in this young initiative.
-I participate only in some of the mobs.
-I do my best to introduce each new participant to the mob they are interested in joining.
-If anything happened that I should know about, please [let me know][mightyiam-zulip].
-
 ## I'm a beginner — I'm concerned about having to ask questions frequently.
 
 Please do ask all the questions all the time.
@@ -63,10 +46,9 @@ Please do ask all the questions all the time.
    It improves both their own understanding and their communication skills.
 1. Every participant finds themselves on the receiving end of explanations at some frequency.
    Some less, some more and this also changes. It's natural.
-   If you keep asking then one day you'll find yourself on the explaining side more often.
-1. Ask questions early, as opposed to five minutes into a conversation.
-   But even if you find yourself five minutes into a conversation, please interrupt it and say "sorry, I lost track of this conversation".
-1. It is your responsibility to the mob to keep up by letting them know that you've lost track when you do.
+   If you keep asking, one day you'll find yourself on the answering side.
+1. Ask questions early, as opposed to deep into a conversation.
+   Don't be shy — interrupt and say "sorry, I lost track of this conversation".
 
 ## What is this [Zulip](https://zulip.com/) platform and why are we using it and not [Discord](https://discord.com/) or [Slack](https://slack.com/)?
 
@@ -112,4 +94,5 @@ Yes, the name is a pun based on the term 'modus operandi'.
 [contact-me]: https://github.com/mightyiam/
 [schedule]: https://calendly.com/mightyiam
 [mobs]: https://docs.google.com/spreadsheets/d/179UXS_wNR9wPOZyRYb3WD6ZsF7ugdZbpi7uqxygQHD0/edit?usp=sharing
-[#schedule suggestions]: https://mobusoperandi.zulipchat.com/#narrow/stream/311246
+[rust]: https://www.rust-lang.org/
+[Remote Mob Programming]: http://remotemobprogramming.org/
