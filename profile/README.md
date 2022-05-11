@@ -103,18 +103,13 @@ Some valid reasons to create a new repository:
 
 ## I'd like to support the organizer
 
-[I'm on Patreon](https://www.patreon.com/mightyiam).
-
-## Any other questions?
-
-Ask in [#general] or message me.
+[Contact me][contact-me].
 
 ## Is Mobus Operandi a pun?
 
 Yes, the name is a pun based on the term 'modus operandi'.
 
+[contact-me]: https://github.com/mightyiam/
 [schedule]: https://calendly.com/mightyiam
 [mobs]: https://docs.google.com/spreadsheets/d/179UXS_wNR9wPOZyRYb3WD6ZsF7ugdZbpi7uqxygQHD0/edit?usp=sharing
-[mightyiam-zulip]: https://mobusoperandi.zulipchat.com/#narrow/pm-with/467090-user467090
-[#general]: https://mobusoperandi.zulipchat.com/#narrow/stream/311287
 [#schedule suggestions]: https://mobusoperandi.zulipchat.com/#narrow/stream/311246
