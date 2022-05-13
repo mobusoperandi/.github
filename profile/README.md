@@ -36,7 +36,6 @@ Possibly. Let's [have a chat][schedule].
 1. Install the [mob command line utility](https://mob.sh/).
 1. Test that [`git` is set up to authenticate with GitHub](https://docs.github.com/en/get-started/quickstart/set-up-git).
 1. Configure [two-factor authentication for your GitHub account](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication).
-1. Send [me][mightyiam-zulip] your GitHub user name.
 
 ## I'm a beginner — I'm concerned about having to ask questions frequently.
 
