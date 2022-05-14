@@ -35,6 +35,7 @@ Possibly. Let's [have a chat][schedule].
 1. Make a test [Jitsi Meet](https://meet.jit.si/) call with a friend and use it to test video, audio and screen sharing, entire screen.
 1. Install the [mob command line utility](https://mob.sh/).
 1. Test that [`git` is set up to authenticate with GitHub](https://docs.github.com/en/get-started/quickstart/set-up-git).
+1. Have something like [direnv] set up in your shell.
 1. Configure [two-factor authentication for your GitHub account](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication).
 
 ## I'm a beginner — I'm concerned about having to ask questions frequently.
@@ -95,3 +96,4 @@ Yes, the name is a pun based on the term 'modus operandi'.
 [mobs]: https://docs.google.com/spreadsheets/d/179UXS_wNR9wPOZyRYb3WD6ZsF7ugdZbpi7uqxygQHD0/edit?usp=sharing
 [rust]: https://www.rust-lang.org/
 [Remote Mob Programming]: http://remotemobprogramming.org/
+[direnv]: https://direnv.net/
