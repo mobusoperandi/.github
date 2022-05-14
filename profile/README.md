@@ -24,10 +24,6 @@ We have various mobs with different skill levels.
 
 Please [schedule a chat with me][schedule].
 
-## May I merely spectate?
-
-Possibly. Let's [have a chat][schedule].
-
 ## How should I prepare for my first session?
 
 1. Test that you have [a recent version of Rust installed](https://www.rust-lang.org/tools/install) and you are able to [compile a dummy project](https://doc.rust-lang.org/book/ch01-02-hello-world.html). Tip: installing Rust on Windows takes considerably more time than on other operating systems.
