@@ -8,9 +8,25 @@ A small community for the regular study of [the Rust programming language][rust]
     alt="Mob Programming to Learn Rust with Shahar Dawn Or" width="240" height="180"/>
 </a>
 
-# May I join?
+# How do I join?
 
 Please [schedule a chat with Dawn][schedule].
+
+# Why join?
+
+Because you'll learn and level-up on numerous skills:
+
+- Communication
+- Collaboration
+- Rust
+- Knowledge sharing
+- Various development tools and workflows
+
+You'll make friends.
+
+You'll have fun.
+
+You may build something you'll be proud of.
 
 # Who is the founder?
 
