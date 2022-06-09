@@ -44,6 +44,7 @@ e.g. the end of the URL may be `&ctz=Africa/Abidjan`.
 | Mob More | Sat, Sun 09:00–11:00 ET | 2022-05-06 |
 | Mob Explore | Sat, Sun 10:00–12:00 ET | 2022-05-21 |
 | Mob Real | Wed, Fri 07:00–09:00 UTC | 2022-06-10 |
+| Mob Loblaw | Sat 21:00-23:00 UTC | 2022-06-11  |
 
 # Who is the founder?
 
