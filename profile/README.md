@@ -35,16 +35,16 @@ Use [this url][calendar] and add a TZ database name value at the end for the `ct
 Here is [the list of timezones][timezones].
 e.g. the end of the URL may be `&ctz=Africa/Abidjan`.
 
-| Name | Schedule | Since |
-| --- | --- | --- |
-| Mob Zero | Tue, Wed, Thu 10:00–11:30 ET | 2021-12-18 |
-| Mob One | Sat, Sun 06:00–09:00 UTC | 2022-01-02 |
-| Mob Three | Tue, Wed, Thu 17:00–20:00 UTC | 2022-03-02 |
-| Mob Otter | Weekdays 13:00–15:00 UTC | 2022-03-17 |
-| Mob More | Sat, Sun 09:00–11:00 ET | 2022-05-06 |
-| Mob Explore | Sat, Sun 10:00–12:00 ET | 2022-05-21 |
-| Mob Real | Wed, Fri 07:00–09:00 UTC | 2022-06-10 |
-| Mob Loblaw | Sat 21:00-23:00 UTC | 2022-06-11  |
+| Name | Since |
+| --- | --- |
+| Mob Zero | 2021-12-18 |
+| Mob One | 2022-01-02 |
+| Mob Three | 2022-03-02 |
+| Mob Otter | 2022-03-17 |
+| Mob More | 2022-05-06 |
+| Mob Explore | 2022-05-21 |
+| Mob Real | 2022-06-10 |
+| Mob Loblaw | 2022-06-11  |
 
 # Who is the founder?
 
