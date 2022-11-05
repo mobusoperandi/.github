@@ -647,7 +647,7 @@ Use the links below to view the schedules in your own timezone.
 
 [Shahar Dawn Or (mightyiam)][mightyiam]
 
-[schedule]: https://koalendar.com/e/have-a-chat-with-dawn-mightyiam
+[schedule]: https://koalendar.com/e/chat-with-dawn
 [rust]: https://www.rust-lang.org/
 [remote mob programming]: https://remotemobprogramming.org/
 [mightyiam]: https://github.com/mightyiam
